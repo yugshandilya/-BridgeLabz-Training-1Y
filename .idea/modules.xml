@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic-program/Basic-program.iml" filepath="$PROJECT_DIR$/Basic-program/Basic-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baisc-program/baisc-program.iml" filepath="$PROJECT_DIR$/baisc-program/baisc-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridgelabz.iml" filepath="$PROJECT_DIR$/bridgelabz.iml" />
+    </modules>
+  </component>
+</project>
